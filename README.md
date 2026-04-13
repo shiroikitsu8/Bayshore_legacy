@@ -9,6 +9,7 @@ This repo is based on the original repo [ProjectAsakura/Bayshore](https://github
 - [WMMT5DX+](../../tree/master_5dxp)
 - [WMMT6](../../tree/master_6)
 - [WMMT6R](../../tree/master_6r)
+- [WMMT6RR](../../tree/master_6rr)
 
 ## Credits
 This software is part of [Project Asakura](https://github.com/ProjectAsakura).
